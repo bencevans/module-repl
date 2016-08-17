@@ -1,0 +1,27 @@
+{
+  "name": "module-repl",
+  "version": "0.0.0",
+  "description": "Import a module and start a REPL",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/module-repl.git"
+  },
+  "keywords": [
+    "module",
+    "repl",
+    "debug"
+  ],
+  "bin": {
+    "module-repl": "cli.js"
+  },
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/module-repl/issues"
+  },
+  "homepage": "https://github.com/bencevans/module-repl#readme"
+}
